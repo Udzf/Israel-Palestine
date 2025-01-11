@@ -1,4 +1,4 @@
-Date of event,victims_isr,occurence_t_y,victims_pal,occurrence_pal_t_y,lnvic_R,lnvic_pal_R,lnvic_t_y_R,lnvic_pal_y_R
+Date of event,victims_isr_R,occurence_t_y_R,victims_pal_R,occurrence_pal_t_y_R,lnvic_R,lnvic_pal_R,lnvic_t_y_R,lnvic_pal_y_R
 2000-09-29,5,1.0,1,1.0,1.791759469228055,0.6931471805599453,1.791759469228055,0.6931471805599453
 2000-09-30,11,1.0,0,0.0,2.4849066497880004,0.0,2.833213344056216,0.6931471805599453
 2000-10-01,9,1.0,1,1.0,2.302585092994046,0.6931471805599453,3.044522437723423,0.6931471805599453
